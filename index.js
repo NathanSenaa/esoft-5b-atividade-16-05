@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return document.createTextNode(textContent);
     }
   
-    // Função para carregar o conteúdo principal
+  
     function loadMainContent() {
       // Criação do header
         const header = document.querySelector("header");
