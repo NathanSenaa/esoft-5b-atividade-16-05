@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         headerTitle.appendChild(createTextElement("Squirtle"));
         header.appendChild(headerTitle);
   
-      // Criação da navegação principal
+     
         const nav = document.querySelector("nav");
         const navList = document.createElement("ul");
     
